@@ -1,0 +1,25 @@
+.brand-color{
+    color: #ffd300; 
+}
+
+body{
+   background-color:#E9ECEF; 
+}
+
+h1,h2,h3{
+    color: #ffd300;
+    
+
+}
+
+p{
+    font-weight: bold;
+}
+
+.border{
+    border-radius: 10px;
+}
+
+.ih{
+    height: 250px;
+}
